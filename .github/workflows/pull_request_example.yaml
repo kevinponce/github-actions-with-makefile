@@ -1,6 +1,6 @@
 name: Example
 
-on: [pull]
+on:
   pull_request:
     types: [labeled]
 
